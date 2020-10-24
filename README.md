@@ -1,1 +1,1 @@
-# hackathon2020-T18
+# hackathon2020-T18-CapitalManagementBC
